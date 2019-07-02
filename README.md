@@ -1,4 +1,4 @@
-# securehtml
+# secureHTML
 
 Encrypt the HTML source code. So visitor does not allow to view the source code.
 
@@ -15,4 +15,4 @@ Encrypt the HTML source code. So visitor does not allow to view the source code.
   4. Copy the code into your newly encoded.html file.
   That's all.
   
-  Demo Link : 
+  Demo Link : Coming Soon
